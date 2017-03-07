@@ -131,6 +131,11 @@ h1, h2, h3, h4, h5, h6 {
 .totheright {
   float: right;
 }
+
+.totheright2{
+  float: right;
+}
+
 dt {
   font-style: italic;
   font-weight: bold;

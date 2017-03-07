@@ -11,7 +11,7 @@ body {
 /* General & 'Reset' Stuff */
 
 .container {
-  width: 100%;
+  width: 90%;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -127,22 +127,22 @@ h1, h2, h3, h4, h5, h6 {
 .coluna01 {
   //position: absolute;
   float: left;
-  width: 300px;  
+  width: 270px;  
 }
 
 .coluna02 {
   float: left;
-  width: 300px;
+  width: 270px;
 }
 
 .coluna03 {
   float: left;
-  width: 300px;
+  width: 270px;
 }
 
 .coluna04 {
   float: left;
-  width: 300px;
+  width: 270px;
 }
 
 dt {

@@ -124,12 +124,20 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 5px 0;
 }
 
-.totheleft {
-  position: absolute;
+.coluna01 {
+  //position: absolute;
+  float: left;
+  width: 200px;  
 }
 
-.totheright {
-  float: right;
+.coluna02 {
+  float: left;
+  width: 200px;
+}
+
+.coluna03 {
+  float: left;
+  width: 200px;
 }
 
 dt {

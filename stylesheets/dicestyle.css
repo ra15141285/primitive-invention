@@ -9,15 +9,16 @@ button {
   color: rgb(255, 255, 255);
   padding: 20px;
   text-transform: uppercase;
-  width: 300px;
+  width: 500px;
   cursor: pointer;
+  font-size: 36px;
 }
 #placeholder {
-  height: 200px;
-  width: 200px;
+  height: 400px;
+  width: 400px;
   padding: 50px;
   margin: 50px auto;
   border: 1px solid gray;
   border-radius: 10px;  
-  font-size:200px;
+  font-size: 400px;
 }

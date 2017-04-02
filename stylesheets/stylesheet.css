@@ -287,6 +287,7 @@ a {
 footer {
   background: #303030;
   position: absolute;
+  border-top: 1px ridge #63c0f5;
   right: 0;
   bottom: 0;
   left: 0;

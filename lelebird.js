@@ -1,4 +1,4 @@
-console.log('[DevSoutinho] Flappy Bird');
+console.log('[DevSoutinho] Flappy Bird - Base pra brincadeira');
 
 const sprites = new Image();
 sprites.src = './lesprites.png';

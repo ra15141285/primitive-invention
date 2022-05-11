@@ -95,8 +95,8 @@ function criaFlappyBird() {
   const flappyBird = {
     spriteX: 0,
     spriteY: 0,
-    largura: 33,
-    altura: 24,
+    largura: 30,
+    altura: 22,
     x: 10,
     y: 50,
     pulo: 4.6,
